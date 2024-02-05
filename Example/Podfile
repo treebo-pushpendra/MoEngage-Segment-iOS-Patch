@@ -1,0 +1,13 @@
+ platform :ios, '13.0'
+
+target 'Segment-MoEngage_Example' do
+  use_frameworks!
+
+  pod 'Segment-MoEngage', '~>8.3.0'
+pod 'MoEngage-iOS-SDK','~>9.15.0'
+  pod 'MoEngageInApp','~> 4.14.0'
+ 
+
+end
+
+
