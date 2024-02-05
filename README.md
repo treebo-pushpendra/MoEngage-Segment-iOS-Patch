@@ -15,7 +15,7 @@ MoEngage can be integrated via Segment using [CocoaPods](http://cocoapods.org).
 
   ```ruby
   use_frameworks!
-  pod 'Segment-MoEngage’
+  pod 'Segment-MoEngage-Patch’
   ```
 
    * Update the pod. 
